@@ -1,0 +1,13 @@
+public long getMovieId() 
+
+    public void setMovieId(long movieId) 
+    public String getMovieName() 
+    public void setMovieName(String movieName) 
+
+    public List<BookingHistory> getHistories()
+
+    public void setHistories(List<BookingHistory> histories) 
+
+    public int getQuantity()
+
+    public int getTotalPrice() 

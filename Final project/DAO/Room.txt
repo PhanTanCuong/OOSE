@@ -1,0 +1,10 @@
+   public int getId() 
+    public void setId(int id) 
+
+    public String getTitle() {
+
+    public void setTitle(String title) 
+
+    public boolean isSelected() 
+
+    public void setSelected(boolean selected) 

@@ -1,0 +1,53 @@
+Booking History
+
+ public long getId() 
+
+    public void setId(long id) 
+    public long getMovieId() 
+
+    public void setMovieId(long movieId) 
+
+    public String getName() 
+
+    public void setName(String name)
+
+    public String getDate() 
+
+    public void setDate(String date) 
+    public String getRoom() 
+
+    public void setRoom(String room) 
+
+    public String getTime() 
+
+    public void setTime(String time) 
+
+    public String getCount() {
+        return count;
+    }
+
+    public void setCount(String count) 
+
+    public String getSeats() 
+
+    public void setSeats(String seats) 
+
+    public String getFoods() 
+
+    public void setFoods(String foods)
+
+    public String getPayment() 
+
+    public void setPayment(String payment)
+
+    public int getTotal() 
+
+    public void setTotal(int total) 
+
+    public String getUser() 
+
+    public void setUser(String 
+
+    public boolean isUsed() 
+
+    public void setUsed(boolean used) 

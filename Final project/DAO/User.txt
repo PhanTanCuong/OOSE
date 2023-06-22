@@ -1,0 +1,15 @@
+User 
+
+public String getEmail() 
+
+public String getPassword() 
+
+public void setPassword(String password) 
+
+
+public boolean isAdmin() 
+
+
+public void setAdmin(boolean admin) 
+
+
